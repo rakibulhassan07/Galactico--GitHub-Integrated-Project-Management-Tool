@@ -1,12 +1,16 @@
-# React + Vite
+# Galactico--Github-Integrated-Project-Management-Tool
+Galactico - GitHub Integrated Project & Team Management Tool Autotrack is a web-based application with a dedicated VS Code extension that helps development teams manage projects, track contributions, and streamline GitHub workflows. It simplifies task tracking, automates Git operations, and provides tools for team leads to review and approve contributions before merging.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Key Features Automated Git operations for consistent and simplified commits
 
-Currently, two official plugins are available:
+Review-based contribution approval system for team leads
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Real-time task status monitoring, including assigned tasks, deadlines, and completion status
 
-## Expanding the ESLint configuration
+VS Code extension for seamless project interaction and updates
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+GitHub webhook support for synchronized status and contribution tracking
+
+Role-based access for contributors and team leads
+
+Autotrack is designed to improve productivity, transparency, and collaboration in team-based software projects.
